@@ -1,5 +1,5 @@
 # Branch template configuration script
-t = open(r"switch_branch_template.txt", "r")
+t = open(r"branch_switch_template.txt", "r")
 tempstr = t.read()
 t.close()
 
